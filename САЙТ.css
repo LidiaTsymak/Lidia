@@ -1,0 +1,82 @@
+body {
+	font-family: Tahoma. Arial;
+	font-size: 12pt;
+	background-color: #C0C0C0;
+	margin: 0;
+	padding: 0;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-item{
+display:block;
+width: auto;
+}
+.menu-item a {
+display: block;
+}
+.menu-item a img {
+width: 30%;
+}
+
+#container {
+	width: 100%; 
+	text-align: center;
+	color: #FFCC66
+	
+}
+
+#container table {
+	margin: 0 auto;
+	
+}
+
+#container table td {
+	padding: 0 20xp; 
+	vertical-align: bottom; 
+}
+
+# container a {
+	color: #white
+	text-decoration: none;
+}
+#container a:hover {
+	color: #c00;
+}
+
+#contact {
+	margin: 0 auto;
+}
+#post {
+	background-color: #fff;
+	margin: 25px auto 0;
+	width: 640px;
+	padding: 20px;
+}
+
+#post h1 {
+	color: # 74927b;
+	margin: 10px 0;
+}
+
+#post p {
+	margin: 0;
+}
+
+#copy {
+	color: #4F4747;
+	font-style: italic;
+}
+
+.right {
+	text-align: right;
+}
+	
+}
+
+#separator {
+	padding-top: 
+}
